@@ -7,6 +7,8 @@ Tu misión es cuantificar cómo el clima y la estacionalidad afectan la demanda 
 
 integrantes
 
-lider: diego garcia: puntos 5 y terminar 
+lider: diego garcia: puntos 5 y terminar
+
 operario 1: jesus rojas puntos 3 y 4
+
 operario 2 : edwin serpa punto 1 y 2
